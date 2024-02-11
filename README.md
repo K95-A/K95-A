@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @K95-A
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Html, CSS, C++, JS,PHP, C, SQL.
-- 💞️ I’m looking to collaborate on Web Development projects
+- 👋 Hi, I’m @Rukaiyah
+- 👀 I’m interested in Web development, Cyber Security
+- 🌱 I’m currently learning Cyber security.
+- 💞️ I’m looking to collaborate on Cyber security or Web Security projects
 - 📫 How to reach me rukaiyanazahim@gmail.com
 
 <!---
