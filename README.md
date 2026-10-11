@@ -1,4 +1,4 @@
-# Hi, I'm Ru 👋
+# Hi, I'm Rukaiya 👋
 
 **Business Operations & Process Systems | Remote | Colombo, Sri Lanka**
 
