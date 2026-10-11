@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rukaiyah
-- 👀 I’m interested in Web development, Cyber Security
-- 🌱 I’m currently learning Cyber security.
-- 💞️ I’m looking to collaborate on Cyber security or Web Security projects
+- 👀 I’m interested in Business Operations
+- 🌱 I’m currently learning AI tools that help in making day to day business operations easy
+- 💞️ I’m looking to collaborate and work in projects that need support in making day to day business operations efficient
 - 📫 How to reach me rukaiyanazahim@gmail.com
 
 <!---
